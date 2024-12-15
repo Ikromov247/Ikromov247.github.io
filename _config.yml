@@ -1,3 +1,4 @@
 title: Know More
 description: A simple Jekyll blog
 theme: minima
+repository: ${ PAGES_REPO_NWO }
