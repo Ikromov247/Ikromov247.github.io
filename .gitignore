@@ -1,0 +1,6 @@
+*.ipynb 
+**/venv/
+**/__pycache__/
+*.js
+*.html
+*.css
